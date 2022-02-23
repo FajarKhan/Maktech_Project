@@ -2,7 +2,7 @@
 
 Take Home Exercise given by Maktech
 
-An Android app that will let the user browse through a list of images parsed from a JSON file, in Staggered grid view.
+An Android app that show off uses of picture in picture functionality 
 
 ## **Languages, libraries and tools used:**
 
